@@ -4,7 +4,7 @@
 
 Bu Program **Python** Dili İle Yazılmıştır.
 
-Oyunun İzin Verdiği Maximum Muharebe Büyüklüğü:
+Oyunun İzin Verdiği **Maximum** Muharebe Büyüklüğü:
 ![1](https://user-images.githubusercontent.com/84701901/146522011-5ea4d956-c0f9-4baf-ab83-700d43d12d45.png)
 
 **Mount-Blade-Warband-Battle-Size** ile Ayarlanan Muharebe Büyüklüğü:
