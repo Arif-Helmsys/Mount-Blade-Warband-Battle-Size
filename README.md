@@ -21,3 +21,5 @@ Oyunun İzin Verdiği **Maximum** Muharebe Büyüklüğü:
 • Programı kapatabilirsiniz.
 
 ![3](https://user-images.githubusercontent.com/84701901/146525031-efd7466e-9eb8-4904-8207-2a8898196e8e.png)
+
+**YALNIZCA WINDOWS-64BIT SÜRÜMLERİNDE ÇALIŞIR**
