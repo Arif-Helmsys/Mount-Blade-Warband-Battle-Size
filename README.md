@@ -9,3 +9,15 @@ Oyunun izin verdiği maximum Muharebe büyüklüğü:
 
 **Mount-Blade-Warband-Battle-Size** ile Ayarlanan Muharebe Büyüklüğü:
 ![2](https://user-images.githubusercontent.com/84701901/146523737-6e0ff8c8-f49e-41ba-87c7-7b3170969e8d.png)
+
+**-Kullanımı:**
+
+• Programı açtıktan sonra 0 ile 100 arasında bir değer belirleyin.
+
+• Daha sonra "Apply" butonuna tıklayın.
+
+• Gelen uyarıdan sonra değer oyuna uyarlanmış olucak.
+
+• Programı kapatabilirsiniz.
+
+![3](https://user-images.githubusercontent.com/84701901/146525031-efd7466e-9eb8-4904-8207-2a8898196e8e.png)
